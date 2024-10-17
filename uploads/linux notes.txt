@@ -1,0 +1,70 @@
+drwxr-xr-x 2 webmaster webmaster 4096 Jul 13 17:26 Shivani
+permission	 user	group
+d for directory
+rwx 	r-x 	r-x
+user	group 	others
+
+
+pwd for path
+
+ls -ltr to check the files and directory or detail of file
+
+date 
+
+
+ls is for listing
+ls -l for long listing
+ls -lt  long listing and time
+ -r reverse listing
+
+touch  to create blank file
+
+touch .hiddenfilename to create a blank file
+-a for viewing hidden file
+
+
+ls -ltr blankfilea
+
+
+to get details about the command use man command for e.g. man cp
+
+cd to change the direcrory
+cd .. to go one level up
+
+cd to go to home direcriry
+
+c
+
+
+to make entry in file
+
+cat > filename.txt will crate a new file and then type in the file and to save do cntr +D
+
+
+rm to delete the file 
+rmdir to delete the folders
+rm -rf to delete any files as well as folder
+
+
+
+r read  	4
+w write		2
+x execute	1
+
+user 	group	others
+1		1
+
+
+to grant write on others
+chmod 646 abc.txt add+2 in others
+
+user and other should have only execute permission.
+
+alternatively
+chmod u+r abc.txt
+
+g & o
+
+
+
+inode
